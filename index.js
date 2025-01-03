@@ -1,5 +1,3 @@
-// client secret-> 139904635954cf3b86666b4d6f03efb0c06bdcdd
-
 const express = require("express");
 const cors = require("cors");
 const dotenv = require("dotenv");
